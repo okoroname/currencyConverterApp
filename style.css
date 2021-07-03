@@ -1,0 +1,14 @@
+body{
+    background-color: skyblue;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.block{
+    border-color: red;
+    height: 300px;
+    width: 400px;
+    background-color: red;
+   
+}
